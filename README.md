@@ -11,6 +11,9 @@ Script assumes a common username/password across devices.  Pass a text file cont
 serial-driller devices.txt
 
 Serial-Driller 
+Username: operator
+Password:
+
 . - success
 x - error
 
