@@ -18,7 +18,7 @@ set system services netconf ssh
 Pass a text file containing device IPs (one per line), and the script will return IP to serial-number and hardare model mappings in .csv format.  
 
 ```
-serial-driller devices.txt
+./serial-driller.py test-sample.csv
 
 Serial-Driller
 
