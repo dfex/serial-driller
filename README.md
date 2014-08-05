@@ -20,7 +20,6 @@ Pass a text file containing device IPs (one per line), and the script will retur
 ```
 serial-driller devices.txt
 
-<<<<<<< HEAD
 Serial-Driller
 
 Username: bdale
@@ -30,7 +29,6 @@ Serial-Driller
 Username: operator
 Password:
 
->>>>>>> FETCH_HEAD
 . - success
 x - error
 Reading device list: .No handlers could be found for logger "paramiko.hostkeys"
