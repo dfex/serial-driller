@@ -24,10 +24,6 @@ Serial-Driller
 
 Username: bdale
 Password (leave blank to use SSH Keys): 
-=======
-Serial-Driller 
-Username: operator
-Password:
 
 . - success
 x - error
